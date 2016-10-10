@@ -12,7 +12,7 @@ chmod a+x ./apk_dcs.sh
 **Launch Apk DCS tool**
 
 1. Open terminal in current folder (right click > open terminal) 
-2. sh ./apk_dcs.sh
+2. bash apk_dcs.sh
 
 **Note**: Also you can launch file with double click if your Linux allow that
 **Note**: After launching tool will make Input/Output folder by it self
